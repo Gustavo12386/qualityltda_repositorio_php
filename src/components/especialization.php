@@ -38,13 +38,16 @@
                     <ul class="topics2">
                         <li>Projetos elétricos</li>
                         <li>Projetos de telefonia e rede lógica</li>
-                        <li>Projetos de cabeamento estruturado</li>
-                        <li>Projetos hidráulicos de água fria e água quente</li>
-                        <li>Projeto de esgotamento sanitário e drenagem de águas pluviais</li>
+                        <li>Projetos de cabeamento estruturado</li>                        
                     </ul>
                 </div>
             </div>
 
+        </div>
+        <div class="imgs">
+           <img src="src/img/atuacao-01.jpg" class="imgatuacao-01" alt="img1">
+           <img src="src/img/atuacao-02.jpg" class="imgatuacao-02" alt="img2">
+           <img src="src/img/atuacao-03.jpg" class="imgatuacao-03" alt="img3">
         </div>
     </div>
 </section>

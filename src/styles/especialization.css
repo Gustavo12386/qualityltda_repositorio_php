@@ -115,7 +115,7 @@
 .especialization .divtopics1 {
   position: relative;
   top: -10px;
-  width: 100%;
+  width: 600px;
   padding: 0 20vh;
   box-sizing: border-box;
 }
@@ -134,9 +134,28 @@
   font-family: var(--font-secondary);
   font-size: 18px;
   color: var(--color-secondary);
-  line-height: 1.5;
+  line-height: 2;
 }
 
+.especialization .topics1 {
+  line-height: 1.8;
+}
+
+.imgs{
+ margin-top: 10vh;
+ position: relative;
+ left: 4vh;
+ width: 100%;
+ display: flex;
+ gap: 10px;
+}
+
+.imgatuacao-01,
+.imgatuacao-02,
+.imgatuacao-03{
+  width: 50%;
+}
+  
 /* Tablets e telas intermediárias */
 @media screen and (min-width: 744px) and (max-width: 1440px) {
    
@@ -201,7 +220,7 @@
 
   .topics1,
   .especialization .topics2 {
-    position: static;
+    position: relative;
     margin: 6;
     padding-left: 20px; 
     width: 100%;
@@ -214,6 +233,11 @@
   .especialization .topics2 li {
     margin-bottom: 8px;
   }
+
+   .topics2{
+    position: relative;
+    bottom: 3.5vh
+  } 
  
 }
 
@@ -300,5 +324,19 @@
     font-size: 13px;
     line-height: 1.5;
     box-sizing: border-box;
+  }
+
+   .imgs{    
+    position: relative;
+    display: inline-block;
+    flex-wrap: wrap;
+    align-items: center;
+    left: 10vh;
+    bottom: 10vh;    
+  }
+
+  .imgatuacao-02,
+  .imgatuacao-03{
+    margin-top: 2vh;      
   }
 }

@@ -49,10 +49,9 @@
   padding: 20px 40px;
   white-space: nowrap;
   font-size: 18px;
-  font-family: var(--main-font);
-  font-weight: 700;
-  color: var(--color-text-body);
-  background-color: var(--main-color);
+  font-family: var(--font-secondary);  
+  color: var(--color-text-black);
+  background-color: transparent;
   border-radius: 30px;
   border: none;
   cursor: pointer;
@@ -60,7 +59,9 @@
 }
 
 .btn-contact button:hover {
-  background-color: var(--color-secondary);
+  color: var(--main-color);
+   background-color: transparent;
+  transform: translateY(-2px);
 }
 
 /* Menu principal */
