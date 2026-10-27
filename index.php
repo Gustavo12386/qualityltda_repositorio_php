@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="./src/styles/global.css">
     <link rel="stylesheet" href="./src/styles/navbar.css">
     <link rel="stylesheet" href="./src/styles/introduction.css">
-    <link rel="stylesheet" href="./src/styles/especialization.css">
+    <link rel="stylesheet" href="./src/styles/especialization.css?v=2">
     <link rel="stylesheet" href="./src/styles/acting.css">
     <link rel="stylesheet" href="./src/styles/portfolio.css">
     <link rel="stylesheet" href="./src/styles/clients.css">
