@@ -142,18 +142,28 @@
 }
 
 .imgs{
- margin-top: 10vh;
- position: relative;
- left: 4vh;
- width: 100%;
- display: flex;
- gap: 10px;
+  margin-left: 22vh;
+  margin-top: 1vh;
 }
 
-.imgatuacao-01,
-.imgatuacao-02,
+.imgs2{ 
+ position: relative;
+ left: 10vh;
+ width: 100%;
+ display: inline-block;
+ flex-wrap: wrap; 
+}
+
+.imgatuacao-01{
+  width: 70%;
+}
+.imgatuacao-02{
+  width: 70%;
+  margin-top: 1vh;
+}
+
 .imgatuacao-03{
-  width: 50%;
+  width: 90%;
 }
   
 /* Tablets e telas intermediárias */
@@ -238,7 +248,15 @@
     position: relative;
     bottom: 3.5vh
   } 
- 
+  
+  .imgs{
+    margin-left: 1vh;
+    width: 300px;
+  }
+
+  .imgs2{
+    margin-bottom: 2vh;
+  }
 }
 
 /* Dispositivos móveis */
@@ -326,7 +344,7 @@
     box-sizing: border-box;
   }
 
-   .imgs{    
+  .imgs2{    
     position: relative;
     display: inline-block;
     flex-wrap: wrap;
@@ -335,8 +353,10 @@
     bottom: 10vh;    
   }
 
-  .imgatuacao-02,
-  .imgatuacao-03{
-    margin-top: 2vh;      
+  .imgs{
+    margin-left: 10vh;
+    width: 78%;
   }
+
+ 
 }

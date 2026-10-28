@@ -24,9 +24,18 @@
                         <li>Estudos especializados de sistemas de potência</li>
                     </ul>
                 </div>
+                <div class="imgs">
+                  <img src="src/img/atuacao-03.jpg" class="imgatuacao-03" alt="img3">
+                </div>
+                        
             </div>
 
             <div class="text-topespecialization2">
+             <div class="imgs2">
+               <img src="src/img/atuacao-01.jpg" class="imgatuacao-01" alt="img1">
+                <img src="src/img/atuacao-02.jpg" class="imgatuacao-02" alt="img2">
+             </div>   
+                
                 <h1 class="h1">
                     Engenharia de instalações em
                     <span class="title3">edificações</span>
@@ -35,7 +44,7 @@
                 <div class="underlined2"></div>
 
                 <div class="divtopics2">
-                    <ul class="topics2">
+                    <ul class="topics2">                        
                         <li>Projetos elétricos</li>
                         <li>Projetos de telefonia e rede lógica</li>
                         <li>Projetos de cabeamento estruturado</li>                        
@@ -43,11 +52,6 @@
                 </div>
             </div>
 
-        </div>
-        <div class="imgs">
-           <img src="src/img/atuacao-01.jpg" class="imgatuacao-01" alt="img1">
-           <img src="src/img/atuacao-02.jpg" class="imgatuacao-02" alt="img2">
-           <img src="src/img/atuacao-03.jpg" class="imgatuacao-03" alt="img3">
-        </div>
+        </div>       
     </div>
 </section>

@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="./src/styles/introduction.css">
     <link rel="stylesheet" href="./src/styles/especialization.css?v=2">
     <link rel="stylesheet" href="./src/styles/acting.css">
-    <link rel="stylesheet" href="./src/styles/portfolio.css">
+    <link rel="stylesheet" href="./src/styles/portfolio.css?v=2">
     <link rel="stylesheet" href="./src/styles/clients.css">
     <link rel="stylesheet" href="./src/styles/contact.css">
     <link rel="stylesheet" href="./src/styles/trabalheconosco.css">

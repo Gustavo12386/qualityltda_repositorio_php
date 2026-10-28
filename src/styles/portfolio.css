@@ -51,6 +51,7 @@ section.portfolio {
     margin: 20px auto 0;
     width: 100%;
     max-width: 900px;
+    height: 140px;
     line-height: 1.6;
 }
 
@@ -58,8 +59,9 @@ section.portfolio {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 140vh;
-    margin-top: -30px;
+    gap: 140vh;   
+    position: relative;
+    bottom: 20vh;
 }
 
 .paginationbutton {
@@ -94,12 +96,12 @@ section.portfolio {
     }
 
     .descriptionportfolio {
-        width: 50vh;
+        width: 60vh;
         transform: translate(2%);
     }
 
     .pagination {
-        gap: 56vh;
+        gap: 65vh;
         margin-top: -60px;
     }
 }
@@ -121,17 +123,18 @@ section.portfolio {
 
     .descriptionportfolio {
         width: 100%;
-        max-width: 60%;
-        font-size: 14px;
+        max-width: 73%;
+        font-size: 12px;
         margin: 20px auto 0;
         padding: 10px;
+        height: 274px;
         position: static;
         text-align: center;
     }
 
     .pagination {
-        gap: 29vh;
+        gap: 36vh;
         position: relative;
-        bottom: 10vh;
+        bottom: 32vh;
     }
 }
