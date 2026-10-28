@@ -97,12 +97,14 @@ section.portfolio {
 
     .descriptionportfolio {
         width: 60vh;
+        height: 174px;
         transform: translate(2%);
     }
 
     .pagination {
         gap: 65vh;
-        margin-top: -60px;
+        position: relative;
+        bottom: 20vh;
     }
 }
 
