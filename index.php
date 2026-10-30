@@ -12,9 +12,9 @@
     <link rel="stylesheet" href="./src/styles/global.css">
     <link rel="stylesheet" href="./src/styles/navbar.css">
     <link rel="stylesheet" href="./src/styles/introduction.css">
-    <link rel="stylesheet" href="./src/styles/especialization.css?v=2">
+    <link rel="stylesheet" href="./src/styles/especialization.css">
     <link rel="stylesheet" href="./src/styles/acting.css">
-    <link rel="stylesheet" href="./src/styles/portfolio.css?v=2">
+    <link rel="stylesheet" href="./src/styles/portfolio.css">
     <link rel="stylesheet" href="./src/styles/clients.css">
     <link rel="stylesheet" href="./src/styles/contact.css">
     <link rel="stylesheet" href="./src/styles/trabalheconosco.css">
@@ -23,7 +23,7 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> 
     <script src="./src/scripts/navbar.js"></script>
-    <script src="./src/scripts/portfolio.js"></script>
+    <script src="./src/scripts/portfolio.js?v=3"></script>
     <script src="./src/scripts/clients.js"></script>   
     <script src="./src/scripts/contact.js" defer></script>   
     <script src="./src/scripts/trabalheconosco.js" defer></script>  

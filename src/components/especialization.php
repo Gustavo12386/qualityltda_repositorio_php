@@ -36,9 +36,9 @@
                 <img src="src/img/atuacao-02.jpg" class="imgatuacao-02" alt="img2">
              </div>   
                 
-                <h1 class="h1">
+                <h1 class="title3">
                     Engenharia de instalações em
-                    <span class="title3">edificações</span>
+                    <span class="titlespan">edificações</span>
                 </h1>
 
                 <div class="underlined2"></div>

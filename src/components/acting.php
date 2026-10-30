@@ -3,8 +3,7 @@
         <div class="divtitle">
             <h1 class="titleacting">Áreas de Atuação</h1>
         </div>
-        <div class="divdescription">
-            <img class="svg" src="src/img/indicador.png" alt="svg" />
+        <div class="divdescription">            
             <p class="description">
                 A Quality Engenharia e Consultoria atua em diversos segmentos relacionados a
                 projetos elétricos e de instalações, destacando-se:

@@ -72,7 +72,7 @@
   text-align: center;
 }
 
-.especialization .title3 {
+.especialization .titlespan {
   height: 68px;
   font-family: var(--main-font);
   font-weight: 700;
@@ -86,8 +86,9 @@
   font-size: 28px;
 }
 
-.especialization h1 .title3 {
+.especialization h1 .titlespan {
   margin-left: 5px;
+  margin-top: 10px;
 }
 
 .especialization .text-topespecialization {
@@ -160,10 +161,11 @@
 .imgatuacao-02{
   width: 70%;
   margin-top: 1vh;
+  margin-bottom: 4vh;
 }
 
 .imgatuacao-03{
-  width: 90%;
+  width: 90%;  
 }
   
 /* Tablets e telas intermediárias */
@@ -291,19 +293,19 @@
     line-height: 1.2;
   }
 
-  .especialization .title3 {
+  .especialization .titlespan {
     display: block;
     height: auto;
     font-size: 24px;
     line-height: 1.2;
     white-space: normal;
-    text-align: center;
+    text-align: center;    
   }
 
   .especialization h1 {
     width: 100%;
     font-size: 24px;
-    text-align: center;
+    text-align: center;    
   }
 
   .especialization .underlined1 {
@@ -329,16 +331,18 @@
 
   .especialization .divtopics1,
   .especialization .divtopics2 {
-    position: static;
+    position: relative;
     width: 100%;
     margin: 0;
-    padding: 0;
+    padding: 0;   
+    margin-left: 20px; 
+    bottom: 10vh;
   }
 
   .especialization .topics1,
   .especialization .topics2 {
     width: 100%;
-    margin: 15px 0;
+    margin: 25px 0;
     font-size: 13px;
     line-height: 1.5;
     box-sizing: border-box;
@@ -350,13 +354,14 @@
     flex-wrap: wrap;
     align-items: center;
     left: 10vh;
-    bottom: 10vh;    
+    bottom: 5vh;    
   }
 
   .imgs{
-    margin-left: 10vh;
+    margin-left: 10vh;    
     width: 78%;
-  }
-
+    position: relative;
+    top: 5vh;
+  }  
  
 }
