@@ -28,6 +28,8 @@
           Salvador - Bahia - Brasil - CEP: 41.770-235
           <br />
           Tel: (71) 3341-1414
+          <br />
+          email: quality@qualityltda.com.br
         </address>
         
       </div>
