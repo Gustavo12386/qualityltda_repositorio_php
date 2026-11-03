@@ -36,7 +36,7 @@
                     </div>
                     <div class="divclock">
                         <img class="clock" src="src/img/relógio.png" alt="clock" />
-                        <p class="topicclock">Horários: Segunda a Sexta feira das 8:00 às 18:00</p>
+                        <p class="topicclock">Horários: Segunda a Sexta feira das 8:30 às 18:30</p>
                     </div>
                 </div>
             </div>
