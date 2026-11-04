@@ -2,7 +2,7 @@
 <div class="divtopicsindustry">
     <div class="divtopics1industry">
         <ul class="topicsindustry">
-            <li class="topicindustry">ACELEN – REFINARIA DE MATARIPE S.A.</li>
+            <li class="topicindustry">Acelen - Refinaria de Mataripe S.A.</li>
             <li class="topicindustry">Air Products</li>
             <li class="topicindustry">Alstom Brasil Ltda.</li>
             <li class="topicindustry">Bahia Sul Celulose S.A.</li>
