@@ -26,7 +26,20 @@ document.addEventListener('DOMContentLoaded', function () {
                 body: new FormData(form)
             });
 
-            const resultado = await resposta.json();
+           const textoResposta = await resposta.text();
+
+            console.log('Status HTTP:', resposta.status);
+            console.log('Resposta completa do PHP:', textoResposta);
+
+            let resultado;
+
+            try {
+                resultado = JSON.parse(textoResposta);
+            } catch (erro) {
+                throw new Error(
+                    'O servidor retornou uma resposta inválida. Verifique o console.'
+                );
+            }
 
             if (!resposta.ok || !resultado.sucesso) {
                 throw new Error(

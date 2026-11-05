@@ -10,11 +10,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Comfortaa:wght@300..700&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">   
     <link rel="stylesheet" href="./src/styles/global.css">
-    <link rel="stylesheet" href="./src/styles/navbar.css">
+    <link rel="stylesheet" href="./src/styles/navbar.css?v=2">
     <link rel="stylesheet" href="./src/styles/introduction.css">
-    <link rel="stylesheet" href="./src/styles/especialization.css">
+    <link rel="stylesheet" href="./src/styles/especialization.css?v=2">
     <link rel="stylesheet" href="./src/styles/acting.css">
-    <link rel="stylesheet" href="./src/styles/portfolio.css">
+    <link rel="stylesheet" href="./src/styles/portfolio.css?v=2">
     <link rel="stylesheet" href="./src/styles/clients.css">
     <link rel="stylesheet" href="./src/styles/contact.css">
     <link rel="stylesheet" href="./src/styles/trabalheconosco.css">

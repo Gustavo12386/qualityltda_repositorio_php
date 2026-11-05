@@ -192,7 +192,7 @@
     font-size: 11px;
     white-space: nowrap;
     position: relative;
-    right: 40px;
+    right: 66px;
   }
 
   .mobile-menu-icon {
@@ -203,6 +203,8 @@
     width: 40px;
     height: 40px;
     padding: 5px;
+    position: relative;
+    right: 6px;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -221,6 +223,8 @@
     padding: 15px 0 20px;
     text-align: center;
     background-color: #fff;
+    position: relative;
+    right: 31px;
   }
 
   .menu2 ul {

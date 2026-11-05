@@ -331,11 +331,10 @@
 
   .especialization .divtopics1,
   .especialization .divtopics2 {
-    position: relative;
     width: 100%;
     margin: 0;
     padding: 0;   
-    margin-left: 20px; 
+    margin-left: 3px; 
     bottom: 10vh;
   }
 
